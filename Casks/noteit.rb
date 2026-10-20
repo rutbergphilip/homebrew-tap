@@ -1,6 +1,6 @@
 cask "noteit" do
-  version "0.3.0"
-  sha256 "df65db3b260ee34ba0cdedad086883adaad301b9f90b192a2a05b6cb27b0a3aa"
+  version "0.4.0"
+  sha256 "7bced7535c7944e0ff34de6696e8408de24bbb9a56e03b4bace789902315b17c"
 
   url "https://github.com/rutbergphilip/noteit/releases/download/v#{version}/NoteIt-#{version}.dmg"
   name "NoteIt"
